@@ -8,7 +8,7 @@ This is a lightweight, static web-based calculator designed for performing arith
 
 ## 🌐 Demo
 
-You can try the live demo here:
+You can try the live demo here: [Web Calculator](https://calculator-onl1ne.vercel.app/).
 
 ---
 
